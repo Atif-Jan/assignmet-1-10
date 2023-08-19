@@ -33,8 +33,9 @@ console.log(`Jon Eliya, "bohat waqt huwa tum ko dekha nhi"`)
 // in a variable called famous_person. Then compose your message and store it in a 
 // new variable called message. Print your message.
 
-let auther="Jon Eliya"
-console.log(`${auther} said,"bohat waqt huwa tum ko dekha nhi"`)
+let famous_person="Jon Eliya"
+let message= "bohat waqt huwa tum ko dekha nhi"
+console.log(`${famous_person} said,"${message}"`)
 
 // 6. Stripping Names: Store a person’s name, and include some whitespace characters 
 // at the beginning and end of the name. Make sure you use each character 
